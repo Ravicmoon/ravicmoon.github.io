@@ -8,3 +8,4 @@ E-mail: ravicmoon@gmail.com
 ### Projects in [Video Image Engineering Lab](http://vision.hanyang.ac.kr/)
 
 ### Publications
+- M. Ra, H. G. Jung, J. K. Suhr, W.-Y. Kim, "Part-based vehicle detection in side-rectilinear images for blind-spot detection," *Expert Systems wit Applications*, vol. 101, pp. 116-128, July, 2018
