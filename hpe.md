@@ -4,4 +4,5 @@ Unofficial implementation of the paper, P. Padeleris, X. Zabulis, and A. A. A. A
 [Code]()
 
 ### Demonstration on [ETH dataset](https://www.vision.ee.ethz.ch/datasets/headposeCVPR08/)
+
 ![1m](hpe/ETH1m.gif)|![3m](hpe/ETH3m.gif)
