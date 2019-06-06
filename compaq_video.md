@@ -10,7 +10,7 @@ Compaq video allows us to check contents of the video quickly by condensing the 
 | Facility security | 192,662 | 207,343 | 249,947 | 278,002 | 332,581 | 363,331 |
 | Traffic enforcement | 6,288 | 11,636 | 15,046 | 17,111 | 18,927 | 21,243 |
 | Traffic information | 3,019 | 3,532 | 8,585 | 10,512 | 12,084 | 13,900 |
-| **Total** | **309,227** | **364,302** | **461,746** | **565,723** | **655,030** | **739,232** |
+| Total | 309,227 | 364,302 | 461,746 | 565,723 | 655,030 | 739,232 |
 
 [Paper](https://doi.org/10.1109/LSP.2018.2848842)
 
