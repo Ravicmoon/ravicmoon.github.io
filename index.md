@@ -10,9 +10,9 @@ E-mail: ravicmoon@gmail.com
 ## Projects in [Video Image Engineering Lab](http://vision.hanyang.ac.kr/)
 - [Security video condensation](compaq_video.md)
 - [Wafer defect detection and recognition](defect.md)
-- Around-view monitoring (AVM) system
-- Heterogeneous stereo system for vehicle
 - [Blind spot detection with side-rectilinear images](bsd.md)
+- [Around-view monitoring (AVM) system](avm.md)
+- Heterogeneous stereo system for vehicle
 
 ## Publications
 - Y. Yoon, J. Lee, **M. Ra**, H. Gwon, S. Lee, M. Y. Kim, K.-C. Yoo, O. Sul, C. G. Kim, W.-Y. Kim, J.-G. Park, S.-J. Lee, Y. Y. Lee, H. S. Choi, and S.-B. Lee, "[Continuous Separation of Circulating Tumor Cells from Whole Blood Using a Slanted Weir Microfluidic Device](https://doi.org/10.3390/cancers11020200)," *Cancers*, vol. 11, no. 2, Feb, 2019
@@ -20,3 +20,9 @@ E-mail: ravicmoon@gmail.com
 - **M. Ra**, H. G. Jung, J. K. Suhr, W.-Y. Kim, "[Part-based vehicle detection in side-rectilinear images for blind-spot detection](https://doi.org/10.1016/j.eswa.2018.02.005)," *Expert Systems with Applications*, vol. 101, pp. 116-128, Jul, 2018
 - **M. Ra**, M. S. Muhammad, C. Lim, S. Han, C. Jung, and W.-Y. Kim, “[Smartphone-Based Point-of-Care Urinalysis Under Variable Illumination](https://doi.org/10.1109/JTEHM.2017.2765631),” *IEEE Journal of Translational Engineering in Health and Medicine*, vol. 6, Dec, 2017
 - **M. Ra**, M. S. Muhammad, C. Lim, S. Han, C. Jung, and W.-Y. Kim, “[Smartphone-Based Point-of-Care Urinalysis Under Variable Illumination](https://doi.org/10.1109/JTEHM.2017.2765631),” *IEEE Journal of Translational Engineering in Health and Medicine*, vol. 6, Dec, 2017
+- J. Lee, M. Pyo, S. Lee, J. Kim, **M. Ra**, W.-Y. Kim, B. J. Park, C. W. Lee, and J.-M. Kim, "[Hydrochromic conjugated polymers for human sweat pore mapping](https://doi.org/10.1038/ncomms4736)," *Nature Communications*, vol. 5, 2014
+
+## Patents
+- [Apparatus for providing tactile signals converted from image information and method thereof](https://doi.org/10.8080/1020130082120), 10-1428401-0000, KR
+- [Method of image processing and device thereof](https://doi.org/10.8080/1020110108378), 10-1283262-0000, KR
+- [Apparatus, method and computer readable medium having computer program for compact video](https://doi.org/10.8080/1020160087017), 10-1805018-0000, KR
