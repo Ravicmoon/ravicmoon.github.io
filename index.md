@@ -1,4 +1,4 @@
-Moonsoo Ra received the B.S. and Ph.D. degree in Electronics and Computer Engineering at [Hanyang University](http://www.hanyang.ac.kr/), Seoul, Korea, in 2011 and 2019, respectively. His research interests include pattern recognition, machine learning, autonomous vehicle, and video surveillance.
+|![Moonsoo Ra](portrait.png)|Moonsoo Ra received the B.S. and Ph.D. degree in Electronics and Computer Engineering at [Hanyang University](http://www.hanyang.ac.kr/), Seoul, Korea, in 2011 and 2019, respectively. His research interests include pattern recognition, machine learning, autonomous vehicle, and video surveillance.|
 
 ## Contacts
 E-mail: ravicmoon@gmail.com
