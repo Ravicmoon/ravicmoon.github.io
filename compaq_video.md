@@ -1,4 +1,4 @@
-# Security video condensation with compaq video
+## Security video condensation with compaq video
 According to Ministry of Government Administration and Home Affairs, 739,232 security cameras are used for public saftey in South Korea (2015).
 Browsing large amount of security footages is tedious and time-consuming task. 
 Compaq video allows us to check contents of the video quickly by condensing the video into a short one.
@@ -15,7 +15,7 @@ Compaq video allows us to check contents of the video quickly by condensing the 
 
 [Paper](https://doi.org/10.1109/LSP.2018.2848842)
 
-## Demonstration
+### Demonstration
 More demonstration will be updated soon.
 
 | Original video (1 hr) | Compaq video (6 min) |
