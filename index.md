@@ -12,6 +12,7 @@ E-mail: ravicmoon@gmail.com
 - Wafer defect detection and classification
 - Around-view monitoring (AVM) system
 - Heterogeneous stereo system for vehicle
+- [Blind spot detection with side-rectilinear images](bsd.md)
 
 ## Publications
 - [M. Ra, W.-Y. Kim, "Parallelized tube rearrangement algorithm for online video synopsis," *IEEE Signal Processing Letters*, vol. 25, pp. 1186-1190, Aug, 2018](https://doi.org/10.1109/LSP.2018.2848842)
