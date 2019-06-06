@@ -12,7 +12,8 @@ E-mail: ravicmoon@gmail.com
 - [Wafer defect detection and recognition](defect.md)
 - [Blind spot detection with side-rectilinear images](bsd.md)
 - [Around-view monitoring (AVM) system](avm.md)
-- Heterogeneous stereo system for vehicle
+- [Heterogeneous stereo system for vehicle](hetero_stereo.md)
+- [Head pose estimation in depth images](hpe.md)
 
 ## Publications
 - Y. Yoon, J. Lee, **M. Ra**, H. Gwon, S. Lee, M. Y. Kim, K.-C. Yoo, O. Sul, C. G. Kim, W.-Y. Kim, J.-G. Park, S.-J. Lee, Y. Y. Lee, H. S. Choi, and S.-B. Lee, "[Continuous Separation of Circulating Tumor Cells from Whole Blood Using a Slanted Weir Microfluidic Device](https://doi.org/10.3390/cancers11020200)," *Cancers*, vol. 11, no. 2, Feb, 2019
