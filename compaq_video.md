@@ -4,6 +4,7 @@ Browsing large amount of security footages is tedious and time-consuming task.
 Compaq video allows us to check contents of the video quickly by condensing the video into a short one.
 
 ### Security cameras for public saftey
+
 | Purpose | 2013 | 2014 | 2015 |
 | --- | --- | --- | --- |
 | Crime prevention | 260,098 | 291,438 | 340,758 |
