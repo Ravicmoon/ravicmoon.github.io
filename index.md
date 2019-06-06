@@ -9,7 +9,7 @@ E-mail: ravicmoon@gmail.com
 
 ## Projects in [Video Image Engineering Lab](http://vision.hanyang.ac.kr/)
 - [Security video condensation](compaq_video.md)
-- Wafer defect detection and classification
+- [Wafer defect detection and recognition](defect.md)
 - Around-view monitoring (AVM) system
 - Heterogeneous stereo system for vehicle
 - [Blind spot detection with side-rectilinear images](bsd.md)
