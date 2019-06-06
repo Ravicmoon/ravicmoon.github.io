@@ -19,7 +19,6 @@ E-mail: ravicmoon@gmail.com
 - **M. Ra**, W.-Y. Kim, "[Parallelized tube rearrangement algorithm for online video synopsis](https://doi.org/10.1109/LSP.2018.2848842)," *IEEE Signal Processing Letters*, vol. 25, pp. 1186-1190, Aug, 2018
 - **M. Ra**, H. G. Jung, J. K. Suhr, W.-Y. Kim, "[Part-based vehicle detection in side-rectilinear images for blind-spot detection](https://doi.org/10.1016/j.eswa.2018.02.005)," *Expert Systems with Applications*, vol. 101, pp. 116-128, Jul, 2018
 - **M. Ra**, M. S. Muhammad, C. Lim, S. Han, C. Jung, and W.-Y. Kim, “[Smartphone-Based Point-of-Care Urinalysis Under Variable Illumination](https://doi.org/10.1109/JTEHM.2017.2765631),” *IEEE Journal of Translational Engineering in Health and Medicine*, vol. 6, Dec, 2017
-- **M. Ra**, M. S. Muhammad, C. Lim, S. Han, C. Jung, and W.-Y. Kim, “[Smartphone-Based Point-of-Care Urinalysis Under Variable Illumination](https://doi.org/10.1109/JTEHM.2017.2765631),” *IEEE Journal of Translational Engineering in Health and Medicine*, vol. 6, Dec, 2017
 - J. Lee, M. Pyo, S. Lee, J. Kim, **M. Ra**, W.-Y. Kim, B. J. Park, C. W. Lee, and J.-M. Kim, "[Hydrochromic conjugated polymers for human sweat pore mapping](https://doi.org/10.1038/ncomms4736)," *Nature Communications*, vol. 5, 2014
 
 ## Patents
