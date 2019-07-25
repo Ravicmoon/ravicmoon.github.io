@@ -1,11 +1,14 @@
-|![Moonsoo Ra](portrait.png)|Moonsoo Ra received the B.S. and Ph.D. degrees in Electronics and Computer Engineering at [Hanyang University](http://www.hanyang.ac.kr/), Seoul, Korea, in 2011 and 2019, respectively. His research interests include pattern recognition, machine learning, autonomous vehicle, and video surveillance.|
-
+|![Moonsoo Ra](portrait.png)|Moonsoo Ra received the B.S. and Ph.D. degrees in Electronics and Computer Engineering at [Hanyang University](http://www.hanyang.ac.kr/), Seoul, Korea, in 2011 and 2019, respectively. He is currently working as founding member and CTO of LightVision©. His research interests include pattern recognition, machine learning, autonomous vehicle, and video surveillance.|
 ## Contacts
 E-mail: ravicmoon@gmail.com
 
 ## Pet Projects
 - [tf.FCN](https://github.com/ravicmoon/tf.FCN)
 - [tf.DenseNet](https://github.com/ravicmoon/tf.DenseNet)
+
+## Education
+|Ph.D. in Electronics and Computer Engineering\Hanyang University, Seoul, Korea|2011-2019|
+|BE in Electronics and Computer Engineering\Hanyang University, Seoul, Korea|2008-2011|
 
 ## Projects in [Video Image Engineering Lab](http://vision.hanyang.ac.kr/)
 - [Security video condensation](compaq_video.md)
@@ -15,7 +18,10 @@ E-mail: ravicmoon@gmail.com
 - [Heterogeneous stereo system for vehicle](hetero_stereo.md)
 - [Head pose estimation in depth images](hpe.md)
 
-## Publications
+## Awards
+|Graduation Prize|Hanyang University, Seoul, Korea|2011.02|
+
+## Journal Publications
 - Y. Yoon, J. Lee, **M. Ra**, H. Gwon, S. Lee, M. Y. Kim, K.-C. Yoo, O. Sul, C. G. Kim, W.-Y. Kim, J.-G. Park, S.-J. Lee, Y. Y. Lee, H. S. Choi, and S.-B. Lee, "[Continuous Separation of Circulating Tumor Cells from Whole Blood Using a Slanted Weir Microfluidic Device](https://doi.org/10.3390/cancers11020200)," *Cancers*, vol. 11, no. 2, Feb, 2019
 - **M. Ra**, W.-Y. Kim, "[Parallelized tube rearrangement algorithm for online video synopsis](https://doi.org/10.1109/LSP.2018.2848842)," *IEEE Signal Processing Letters*, vol. 25, pp. 1186-1190, Aug, 2018
 - **M. Ra**, H. G. Jung, J. K. Suhr, W.-Y. Kim, "[Part-based vehicle detection in side-rectilinear images for blind-spot detection](https://doi.org/10.1016/j.eswa.2018.02.005)," *Expert Systems with Applications*, vol. 101, pp. 116-128, Jul, 2018
