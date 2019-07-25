@@ -1,4 +1,5 @@
-|![Moonsoo Ra](portrait.png)|Moonsoo Ra received the B.S. and Ph.D. degrees in Electronics and Computer Engineering at [Hanyang University](http://www.hanyang.ac.kr/), Seoul, Korea, in 2011 and 2019, respectively. He is currently working as founding member and CTO of LightVision©. His research interests include pattern recognition, machine learning, autonomous vehicle, and video surveillance.|
+|![Moonsoo Ra](portrait.png)|Moonsoo Ra received the B.S. and Ph.D. degrees in Electronics and Computer Engineering at [Hanyang University](http://www.hanyang.ac.kr/), Seoul, Korea, in 2011 and 2019, respectively. He is currently working as founding member and CTO of LightVision(c). His research interests include pattern recognition, machine learning, autonomous vehicle, and video surveillance.|
+
 ## Contacts
 E-mail: ravicmoon@gmail.com
 
@@ -7,6 +8,7 @@ E-mail: ravicmoon@gmail.com
 - [tf.DenseNet](https://github.com/ravicmoon/tf.DenseNet)
 
 ## Education
+
 |Ph.D. in Electronics and Computer Engineering\Hanyang University, Seoul, Korea|2011-2019|
 |BE in Electronics and Computer Engineering\Hanyang University, Seoul, Korea|2008-2011|
 
@@ -19,6 +21,7 @@ E-mail: ravicmoon@gmail.com
 - [Head pose estimation in depth images](hpe.md)
 
 ## Awards
+
 |Graduation Prize|Hanyang University, Seoul, Korea|2011.02|
 
 ## Journal Publications
