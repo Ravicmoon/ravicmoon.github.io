@@ -1,4 +1,4 @@
-|![Moonsoo Ra](portrait.png)|Moonsoo Ra received the B.S. and Ph.D. degrees in Electronics and Computer Engineering at [Hanyang University](http://www.hanyang.ac.kr/), Seoul, Korea, in 2011 and 2019, respectively. His research interests include pattern recognition, machine learning, autonomous vehicle, and video surveillance.|
+|![Moonsoo Ra](portrait.png)|Moonsoo Ra received the B.S. and Ph.D. degrees in Electronics and Computer Engineering at [Hanyang University](http://www.hanyang.ac.kr/), Seoul, Korea, in 2011 and 2019, respectively. He is currently working as founding member and CTO of LightVision Inc. His research interests include pattern recognition, machine learning, autonomous vehicle, and video surveillance.|
 
 ## Contacts
 E-mail: ravicmoon@gmail.com
@@ -14,7 +14,7 @@ E-mail: ravicmoon@gmail.com
 
 ## Experience
 
-|CTO|LightVision(c)|2019-Current|
+|CTO|LightVision Inc.|2019-Current|
 |Graduate Student Researcher|Hanyang University|2011-2019|
 
 ## Projects in [Video Image Engineering Lab](http://vision.hanyang.ac.kr/)
@@ -28,6 +28,8 @@ E-mail: ravicmoon@gmail.com
 ## Awards
 
 |Graduation Prize|Hanyang University, Seoul, Korea|2011.02|
+|Best Paper Award|IWAIT 2017|2017.01|
+|Industrial Science Paper Award|Research Institute of Industrial Science, Hanyang University, Seoul, Korea|2019.08|
 
 ## Journal Publications
 - Y. Yoon, J. Lee, **M. Ra**, H. Gwon, S. Lee, M. Y. Kim, K.-C. Yoo, O. Sul, C. G. Kim, W.-Y. Kim, J.-G. Park, S.-J. Lee, Y. Y. Lee, H. S. Choi, and S.-B. Lee, "[Continuous Separation of Circulating Tumor Cells from Whole Blood Using a Slanted Weir Microfluidic Device](https://doi.org/10.3390/cancers11020200)," *Cancers*, vol. 11, no. 2, Feb, 2019
