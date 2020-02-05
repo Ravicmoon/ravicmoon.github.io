@@ -2,6 +2,7 @@
 
 ## Contacts
 E-mail: ravicmoon@gmail.com
+Blog: shovelcs.blogspot.com
 
 ## Pet Projects
 - [tf.FCN](https://github.com/ravicmoon/tf.FCN)
