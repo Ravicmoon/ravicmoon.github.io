@@ -33,7 +33,7 @@
 |Industrial Science Paper Award|Research Institute of Industrial Science, Hanyang University, Seoul, Korea|2019.08|
 
 ## Journal Publications
-- J. Kim, **M. Ra**, H. Lee, J. Kim, and W.-Y. Kim, "Precise 3D Baseball Pitching Trajectory Estimation Using Multiple Unsynchronized Cameras," *IEEE Access*, vol. 7, pp. 166463-166475, 2019
+- J. Kim, **M. Ra**, H. Lee, J. Kim, and W.-Y. Kim, "[Precise 3D Baseball Pitching Trajectory Estimation Using Multiple Unsynchronized Cameras](https://ieeexplore.ieee.org/document/8897547)," *IEEE Access*, vol. 7, pp. 166463-166475, 2019
 - Y. Yoon, J. Lee, **M. Ra**, H. Gwon, S. Lee, M. Y. Kim, K.-C. Yoo, O. Sul, C. G. Kim, W.-Y. Kim, J.-G. Park, S.-J. Lee, Y. Y. Lee, H. S. Choi, and S.-B. Lee, "[Continuous Separation of Circulating Tumor Cells from Whole Blood Using a Slanted Weir Microfluidic Device](https://doi.org/10.3390/cancers11020200)," *Cancers*, vol. 11, no. 2, Feb, 2019
 - **M. Ra**, W.-Y. Kim, "[Parallelized tube rearrangement algorithm for online video synopsis](https://doi.org/10.1109/LSP.2018.2848842)," *IEEE Signal Processing Letters*, vol. 25, pp. 1186-1190, Aug, 2018
 - **M. Ra**, H. G. Jung, J. K. Suhr, W.-Y. Kim, "[Part-based vehicle detection in side-rectilinear images for blind-spot detection](https://doi.org/10.1016/j.eswa.2018.02.005)," *Expert Systems with Applications*, vol. 101, pp. 116-128, Jul, 2018
