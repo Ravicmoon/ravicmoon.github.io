@@ -31,9 +31,9 @@ Moonsoo Ra received the B.S. and Ph.D. degrees in Electronics and Computer Engin
 
 ## Awards
 
-|Graduation Prize|Hanyang University, Seoul, Korea|2011.02|
-|Best Paper Award|IWAIT 2017|2017.01|
 |Industrial Science Paper Award|Research Institute of Industrial Science, Hanyang University, Seoul, Korea|2019.08|
+|Best Paper Award|IWAIT 2017|2017.01|
+|Graduation Prize|Hanyang University, Seoul, Korea|2011.02|
 
 ## Journal publications
 - H. Lee, **M. Ra**, W.-Y. Kim, "[Nighttime Data Augmentation using GAN for Improving Blind-Spot Detection](https://doi.org/10.1109/ACCESS.2020.2979239)," *IEEE Access*, vol. 8, pp. 48049-48059, 2020
@@ -45,7 +45,6 @@ Moonsoo Ra received the B.S. and Ph.D. degrees in Electronics and Computer Engin
 - J. Lee, M. Pyo, S. Lee, J. Kim, **M. Ra**, W.-Y. Kim, B. J. Park, C. W. Lee, and J.-M. Kim, "[Hydrochromic conjugated polymers for human sweat pore mapping](https://doi.org/10.1038/ncomms4736)," *Nature Communications*, vol. 5, 2014
 
 ## Patents
--
 - [Apparatus for providing tactile signals converted from image information and method thereof](https://doi.org/10.8080/1020130082120), 10-1428401-0000, KR
 - [Method of image processing and device thereof](https://doi.org/10.8080/1020110108378), 10-1283262-0000, KR
 - [Apparatus, method and computer readable medium having computer program for compact video](https://doi.org/10.8080/1020160087017), 10-1805018-0000, KR
