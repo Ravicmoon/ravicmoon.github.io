@@ -1,7 +1,7 @@
-theme: jekyll-theme-minimal
 markdown: kramdown
 highlighter: rouge
 
-title: Personal Page of Moonsoo Ra
-
-gem "github-pages", group: :jekyll_plugins
+title: Moonsoo Ra
+logo: /portrait.png
+description: Personal page of Moonsoo Ra
+theme: jekyll-theme-minimal
