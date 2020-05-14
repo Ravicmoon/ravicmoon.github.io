@@ -36,8 +36,9 @@ Moonsoo Ra received the B.S. and Ph.D. degrees in Electronics and Computer Engin
 |Graduation Prize|Hanyang University, Seoul, Korea|2011.02|
 
 ## Journal publications
+- J. Kim, **M. Ra**, W.-Y. Kim, "[A DCNN-Based Fast NIR Face Recognition System Robust to Reflected Light From Eyeglasses](https://doi.org/10.1109/ACCESS.2020.2991255)," *IEEE Access*, vol. 8, pp. 80948-80963, 2020
 - H. Lee, **M. Ra**, W.-Y. Kim, "[Nighttime Data Augmentation using GAN for Improving Blind-Spot Detection](https://doi.org/10.1109/ACCESS.2020.2979239)," *IEEE Access*, vol. 8, pp. 48049-48059, 2020
-- J. Kim, **M. Ra**, H. Lee, J. Kim, and W.-Y. Kim, "[Precise 3D Baseball Pitching Trajectory Estimation Using Multiple Unsynchronized Cameras](https://ieeexplore.ieee.org/document/8897547)," *IEEE Access*, vol. 7, pp. 166463-166475, 2019
+- J. Kim, **M. Ra**, H. Lee, J. Kim, and W.-Y. Kim, "[Precise 3D Baseball Pitching Trajectory Estimation Using Multiple Unsynchronized Cameras](https://doi.org/10.1109/ACCESS.2019.2953340)," *IEEE Access*, vol. 7, pp. 166463-166475, 2019
 - Y. Yoon, J. Lee, **M. Ra**, H. Gwon, S. Lee, M. Y. Kim, K.-C. Yoo, O. Sul, C. G. Kim, W.-Y. Kim, J.-G. Park, S.-J. Lee, Y. Y. Lee, H. S. Choi, and S.-B. Lee, "[Continuous Separation of Circulating Tumor Cells from Whole Blood Using a Slanted Weir Microfluidic Device](https://doi.org/10.3390/cancers11020200)," *Cancers*, vol. 11, no. 2, Feb, 2019
 - **M. Ra**, W.-Y. Kim, "[Parallelized tube rearrangement algorithm for online video synopsis](https://doi.org/10.1109/LSP.2018.2848842)," *IEEE Signal Processing Letters*, vol. 25, pp. 1186-1190, Aug, 2018
 - **M. Ra**, H. G. Jung, J. K. Suhr, W.-Y. Kim, "[Part-based vehicle detection in side-rectilinear images for blind-spot detection](https://doi.org/10.1016/j.eswa.2018.02.005)," *Expert Systems with Applications*, vol. 101, pp. 116-128, Jul, 2018
