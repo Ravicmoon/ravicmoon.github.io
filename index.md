@@ -9,6 +9,7 @@ Moonsoo Ra received the B.S. and Ph.D. degrees in Electronics and Computer Engin
 ## Public repos
 - [tf.FCN](https://github.com/ravicmoon/tf.FCN)
 - [tf.DenseNet](https://github.com/ravicmoon/tf.DenseNet)
+- [yolo_core](https://github.com/ravicmoon/yolo_core)
 - [yolo_utils](https://github.com/ravicmoon/yolo_utils)
 
 ## Education
