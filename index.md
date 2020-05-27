@@ -19,7 +19,7 @@ Moonsoo Ra received the B.S. and Ph.D. degrees in Electronics and Computer Engin
 
 ## Scholarship
 
-|Name|Year|Semester|
+|**Name**|**Year**|**Semester**|
 |Excellent (한양과학기술 장학금3)|2008|Spring|
 |Excellent (한양과학기술 장학금3)|2008|Fall|
 |Excellent (한양과학기술 장학금3)|2009|Spring|
