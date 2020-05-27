@@ -17,6 +17,22 @@ Moonsoo Ra received the B.S. and Ph.D. degrees in Electronics and Computer Engin
 |Ph.D. in Electronics and Computer Engineering|Hanyang University|2011-2019|
 |B.E. in Electronics and Computer Engineering (summa cum laude)|Hanyang University|2008-2011|
 
+## Scholarship
+
+<details>
+<summary>Click here to expand</summary>
+|Name|Year|Semester|
+|Excellent (한양과학기술 장학금3)|2008|Spring|
+|Excellent (한양과학기술 장학금3)|2008|Fall|
+|Excellent (한양과학기술 장학금3)|2009|Spring|
+|Honor (근로장학금)|2009|Fall|
+|Honor (성적장학금(C))|2010|Spring|
+|Top (성적장학금(A))|2010|Fall|
+|Top (석박사통합 장학금)|2011|Spring|
+|Top (석박사통합 장학금)|2011|Fall|
+|Top (석박사통합 장학금)|2012|Spring|
+</details>
+
 ## Experience
 
 |CTO|LightVision Inc.|2019-Current|
