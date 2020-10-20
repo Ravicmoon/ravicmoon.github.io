@@ -50,6 +50,7 @@ Moonsoo Ra received the B.S. and Ph.D. degrees in Electronics and Computer Engin
 |Graduation Prize|Hanyang University, Seoul, Korea|2011.02|
 
 ## Journal publications
+- S. Kim, J. Kim, **M. Ra**, W.-Y. Kim, "[Vacant Parking Slot Recognition Method for Practical Autonomous Valet Parking System Using around View Image](https://doi.org/10.3390/sym12101725)," *Symmetry*, vol. 12, issue 10, 2020
 - M. Kim, H. Jo, **M. Ra**, W.-Y. Kim, "[Weakly-Supervised Defect Segmentation on Periodic Textures Using CycleGAN](https://doi.org/10.1109/ACCESS.2020.3024554)," *IEEE Access*, vol. 8, pp. 176202-176216, 2020
 - J. Kim, **M. Ra**, W.-Y. Kim, "[A DCNN-Based Fast NIR Face Recognition System Robust to Reflected Light From Eyeglasses](https://doi.org/10.1109/ACCESS.2020.2991255)," *IEEE Access*, vol. 8, pp. 80948-80963, 2020
 - H. Lee, **M. Ra**, W.-Y. Kim, "[Nighttime Data Augmentation using GAN for Improving Blind-Spot Detection](https://doi.org/10.1109/ACCESS.2020.2979239)," *IEEE Access*, vol. 8, pp. 48049-48059, 2020
