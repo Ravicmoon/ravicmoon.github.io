@@ -9,7 +9,6 @@ Moonsoo Ra received the B.S. and Ph.D. degrees in Electronics and Computer Engin
 ## Public repos
 - [tf.FCN](https://github.com/ravicmoon/tf.FCN)
 - [tf.DenseNet](https://github.com/ravicmoon/tf.DenseNet)
-- [yolo_core](https://github.com/ravicmoon/yolo_core)
 - [yolo_utils](https://github.com/ravicmoon/yolo_utils)
 
 ## Education
@@ -50,11 +49,11 @@ Moonsoo Ra received the B.S. and Ph.D. degrees in Electronics and Computer Engin
 |Graduation Prize|Hanyang University, Seoul, Korea|2011.02|
 
 ## Journal publications
-- S. Kim, J. Kim, **M. Ra**, W.-Y. Kim, "[Vacant Parking Slot Recognition Method for Practical Autonomous Valet Parking System Using around View Image](https://doi.org/10.3390/sym12101725)," *Symmetry*, vol. 12, issue 10, 2020
-- M. Kim, H. Jo, **M. Ra**, W.-Y. Kim, "[Weakly-Supervised Defect Segmentation on Periodic Textures Using CycleGAN](https://doi.org/10.1109/ACCESS.2020.3024554)," *IEEE Access*, vol. 8, pp. 176202-176216, 2020
-- J. Kim, **M. Ra**, W.-Y. Kim, "[A DCNN-Based Fast NIR Face Recognition System Robust to Reflected Light From Eyeglasses](https://doi.org/10.1109/ACCESS.2020.2991255)," *IEEE Access*, vol. 8, pp. 80948-80963, 2020
-- H. Lee, **M. Ra**, W.-Y. Kim, "[Nighttime Data Augmentation using GAN for Improving Blind-Spot Detection](https://doi.org/10.1109/ACCESS.2020.2979239)," *IEEE Access*, vol. 8, pp. 48049-48059, 2020
-- J. Kim, **M. Ra**, H. Lee, J. Kim, and W.-Y. Kim, "[Precise 3D Baseball Pitching Trajectory Estimation Using Multiple Unsynchronized Cameras](https://doi.org/10.1109/ACCESS.2019.2953340)," *IEEE Access*, vol. 7, pp. 166463-166475, 2019
+- S. Kim, J. Kim, **M. Ra**, W.-Y. Kim, "[Vacant Parking Slot Recognition Method for Practical Autonomous Valet Parking System Using around View Image](https://doi.org/10.3390/sym12101725)," *Symmetry*, vol. 12, issue 10, Oct, 2020
+- M. Kim, H. Jo, **M. Ra**, W.-Y. Kim, "[Weakly-Supervised Defect Segmentation on Periodic Textures Using CycleGAN](https://doi.org/10.1109/ACCESS.2020.3024554)," *IEEE Access*, vol. 8, pp. 176202-176216, Sep, 2020
+- J. Kim, **M. Ra**, W.-Y. Kim, "[A DCNN-Based Fast NIR Face Recognition System Robust to Reflected Light From Eyeglasses](https://doi.org/10.1109/ACCESS.2020.2991255)," *IEEE Access*, vol. 8, pp. 80948-80963, Apr, 2020
+- H. Lee, **M. Ra**, W.-Y. Kim, "[Nighttime Data Augmentation using GAN for Improving Blind-Spot Detection](https://doi.org/10.1109/ACCESS.2020.2979239)," *IEEE Access*, vol. 8, pp. 48049-48059, Mar, 2020
+- J. Kim, **M. Ra**, H. Lee, J. Kim, and W.-Y. Kim, "[Precise 3D Baseball Pitching Trajectory Estimation Using Multiple Unsynchronized Cameras](https://doi.org/10.1109/ACCESS.2019.2953340)," *IEEE Access*, vol. 7, pp. 166463-166475, Nov, 2019
 - Y. Yoon, J. Lee, **M. Ra**, H. Gwon, S. Lee, M. Y. Kim, K.-C. Yoo, O. Sul, C. G. Kim, W.-Y. Kim, J.-G. Park, S.-J. Lee, Y. Y. Lee, H. S. Choi, and S.-B. Lee, "[Continuous Separation of Circulating Tumor Cells from Whole Blood Using a Slanted Weir Microfluidic Device](https://doi.org/10.3390/cancers11020200)," *Cancers*, vol. 11, no. 2, Feb, 2019
 - **M. Ra**, W.-Y. Kim, "[Parallelized tube rearrangement algorithm for online video synopsis](https://doi.org/10.1109/LSP.2018.2848842)," *IEEE Signal Processing Letters*, vol. 25, pp. 1186-1190, Aug, 2018
 - **M. Ra**, H. G. Jung, J. K. Suhr, W.-Y. Kim, "[Part-based vehicle detection in side-rectilinear images for blind-spot detection](https://doi.org/10.1016/j.eswa.2018.02.005)," *Expert Systems with Applications*, vol. 101, pp. 116-128, Jul, 2018
