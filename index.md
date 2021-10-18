@@ -65,3 +65,6 @@ Moonsoo Ra received the B.S. and Ph.D. degrees in Electronics and Computer Engin
 - [Apparatus for providing tactile signals converted from image information and method thereof](https://doi.org/10.8080/1020130082120), 10-1428401-0000, KR
 - [Method of image processing and device thereof](https://doi.org/10.8080/1020110108378), 10-1283262-0000, KR
 - [Apparatus, method and computer readable medium having computer program for compact video](https://doi.org/10.8080/1020160087017), 10-1805018-0000, KR
+- [Compact video generation device and method, and recording medium in which computer program is recorded](https://patents.google.com/patent/US10701463B2), US10701463B2
+- [Multi sensor handover technology for parking service system](https://doi.org/10.8080/1020200164900), 10-2263715-0000, KR
+- [AI-based material defect image generation method and defect detection system](https://doi.org/10.8080/1020200104317), 10-2263716-0000, KR
