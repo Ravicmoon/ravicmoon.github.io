@@ -49,15 +49,16 @@ Moonsoo Ra received the B.S. and Ph.D. degrees in Electronics and Computer Engin
 |Graduation Prize|Hanyang University, Seoul, Korea|2011.02|
 
 ## Journal publications
-- S. Kim, **M. Ra**, W.-Y. Kim, "[Specular Detection on Glossy Surface Using Geometric Characteristics of Specularity in Top-View Images](https://doi.org/10.3390/s21062079)," *Sensors*, vol. 21, issue 6, Mar, 2021
-- S. Kim, J. Kim, **M. Ra**, W.-Y. Kim, "[Vacant Parking Slot Recognition Method for Practical Autonomous Valet Parking System Using around View Image](https://doi.org/10.3390/sym12101725)," *Symmetry*, vol. 12, issue 10, Oct, 2020
-- M. Kim, H. Jo, **M. Ra**, W.-Y. Kim, "[Weakly-Supervised Defect Segmentation on Periodic Textures Using CycleGAN](https://doi.org/10.1109/ACCESS.2020.3024554)," *IEEE Access*, vol. 8, pp. 176202-176216, Sep, 2020
-- J. Kim, **M. Ra**, W.-Y. Kim, "[A DCNN-Based Fast NIR Face Recognition System Robust to Reflected Light From Eyeglasses](https://doi.org/10.1109/ACCESS.2020.2991255)," *IEEE Access*, vol. 8, pp. 80948-80963, Apr, 2020
-- H. Lee, **M. Ra**, W.-Y. Kim, "[Nighttime Data Augmentation using GAN for Improving Blind-Spot Detection](https://doi.org/10.1109/ACCESS.2020.2979239)," *IEEE Access*, vol. 8, pp. 48049-48059, Mar, 2020
+- **M. Ra**, Y. Boo, J. M. Jeong, J. Batts-Etseg, J. Jeong, and  W. Lee, "[Classification of crystal structures using electron diffraction patterns with a deep convolutional neural network](https://doi.org/10.1039/D1RA07156D)," *RSC Advances*, vol. 11, issue 61, pp. 38307-38315, Nov, 2021
+- S. Kim, **M. Ra**, and W.-Y. Kim, "[Specular Detection on Glossy Surface Using Geometric Characteristics of Specularity in Top-View Images](https://doi.org/10.3390/s21062079)," *Sensors*, vol. 21, issue 6, Mar, 2021
+- S. Kim, J. Kim, **M. Ra**, and W.-Y. Kim, "[Vacant Parking Slot Recognition Method for Practical Autonomous Valet Parking System Using around View Image](https://doi.org/10.3390/sym12101725)," *Symmetry*, vol. 12, issue 10, Oct, 2020
+- M. Kim, H. Jo, **M. Ra**, and W.-Y. Kim, "[Weakly-Supervised Defect Segmentation on Periodic Textures Using CycleGAN](https://doi.org/10.1109/ACCESS.2020.3024554)," *IEEE Access*, vol. 8, pp. 176202-176216, Sep, 2020
+- J. Kim, **M. Ra**, and W.-Y. Kim, "[A DCNN-Based Fast NIR Face Recognition System Robust to Reflected Light From Eyeglasses](https://doi.org/10.1109/ACCESS.2020.2991255)," *IEEE Access*, vol. 8, pp. 80948-80963, Apr, 2020
+- H. Lee, **M. Ra**, and W.-Y. Kim, "[Nighttime Data Augmentation using GAN for Improving Blind-Spot Detection](https://doi.org/10.1109/ACCESS.2020.2979239)," *IEEE Access*, vol. 8, pp. 48049-48059, Mar, 2020
 - J. Kim, **M. Ra**, H. Lee, J. Kim, and W.-Y. Kim, "[Precise 3D Baseball Pitching Trajectory Estimation Using Multiple Unsynchronized Cameras](https://doi.org/10.1109/ACCESS.2019.2953340)," *IEEE Access*, vol. 7, pp. 166463-166475, Nov, 2019
 - Y. Yoon, J. Lee, **M. Ra**, H. Gwon, S. Lee, M. Y. Kim, K.-C. Yoo, O. Sul, C. G. Kim, W.-Y. Kim, J.-G. Park, S.-J. Lee, Y. Y. Lee, H. S. Choi, and S.-B. Lee, "[Continuous Separation of Circulating Tumor Cells from Whole Blood Using a Slanted Weir Microfluidic Device](https://doi.org/10.3390/cancers11020200)," *Cancers*, vol. 11, no. 2, Feb, 2019
-- **M. Ra**, W.-Y. Kim, "[Parallelized tube rearrangement algorithm for online video synopsis](https://doi.org/10.1109/LSP.2018.2848842)," *IEEE Signal Processing Letters*, vol. 25, pp. 1186-1190, Aug, 2018
-- **M. Ra**, H. G. Jung, J. K. Suhr, W.-Y. Kim, "[Part-based vehicle detection in side-rectilinear images for blind-spot detection](https://doi.org/10.1016/j.eswa.2018.02.005)," *Expert Systems with Applications*, vol. 101, pp. 116-128, Jul, 2018
+- **M. Ra** and W.-Y. Kim, "[Parallelized tube rearrangement algorithm for online video synopsis](https://doi.org/10.1109/LSP.2018.2848842)," *IEEE Signal Processing Letters*, vol. 25, pp. 1186-1190, Aug, 2018
+- **M. Ra**, H. G. Jung, J. K. Suhr, and W.-Y. Kim, "[Part-based vehicle detection in side-rectilinear images for blind-spot detection](https://doi.org/10.1016/j.eswa.2018.02.005)," *Expert Systems with Applications*, vol. 101, pp. 116-128, Jul, 2018
 - **M. Ra**, M. S. Muhammad, C. Lim, S. Han, C. Jung, and W.-Y. Kim, “[Smartphone-Based Point-of-Care Urinalysis Under Variable Illumination](https://doi.org/10.1109/JTEHM.2017.2765631),” *IEEE Journal of Translational Engineering in Health and Medicine*, vol. 6, Dec, 2017
 - J. Lee, M. Pyo, S. Lee, J. Kim, **M. Ra**, W.-Y. Kim, B. J. Park, C. W. Lee, and J.-M. Kim, "[Hydrochromic conjugated polymers for human sweat pore mapping](https://doi.org/10.1038/ncomms4736)," *Nature Communications*, vol. 5, 2014
 
@@ -66,5 +67,6 @@ Moonsoo Ra received the B.S. and Ph.D. degrees in Electronics and Computer Engin
 - [Method of image processing and device thereof](https://doi.org/10.8080/1020110108378), 10-1283262-0000, KR
 - [Apparatus, method and computer readable medium having computer program for compact video](https://doi.org/10.8080/1020160087017), 10-1805018-0000, KR
 - [Compact video generation device and method, and recording medium in which computer program is recorded](https://patents.google.com/patent/US10701463B2), US10701463B2
+- [Simplified video generation device, method, and recording medium for recording computer program](https://patents.google.com/patent/CN109661808B/en), CN109661808B
 - [Multi sensor handover technology for parking service system](https://doi.org/10.8080/1020200164900), 10-2263715-0000, KR
 - [AI-based material defect image generation method and defect detection system](https://doi.org/10.8080/1020200104317), 10-2263716-0000, KR
