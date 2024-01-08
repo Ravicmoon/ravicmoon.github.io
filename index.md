@@ -1,3 +1,5 @@
+**I'm eager to help with any reference checks. Please reach out if you need assistance.**
+
 ## About me
 Moonsoo Ra received the B.S. and Ph.D. degrees in Electronics and Computer Engineering at [Hanyang University](http://www.hanyang.ac.kr/), Seoul, Korea, in 2011 and 2019, respectively. He is currently working as founding member and CTO of LightVision Inc. His research interests include pattern recognition, machine learning, autonomous vehicle, and video surveillance.
 
