@@ -60,9 +60,6 @@ Moonsoo Ra received the B.S. and Ph.D. degrees in Electronics and Computer Engin
 - J. Jeong, M. Ra, J. Jeong, S. Jang, and W. Lee, "[Determination of space groups and component systems from selected area electron diffraction patterns by deep learning](https://doi.org/10.1007/s43207-026-00590-w)," _Journal of the Korean Ceramic Society_, vol. 63, pp. 468-481, Feb, 2026
 - J. M. Jeong, **M. Ra**, J. Jeong, and W. Lee, "[Performance of a deep convolutional neural network to classify crystal structures using selected area electron beam diffraction patterns containing lattice defect information](https://doi.org/10.1039/D3RA08939H)," _RSC Advances_, vol. 14, issue 26, pp. 18489-18500, Jun, 2024
 - **M. Ra**, Y. Boo, J. M. Jeong, J. Batts-Etseg, J. Jeong, and W. Lee, "[Classification of crystal structures using electron diffraction patterns with a deep convolutional neural network](https://doi.org/10.1039/D1RA07156D)," _RSC Advances_, vol. 11, issue 61, pp. 38307-38315, Nov, 2021
-<details>
-<summary>See all publications</summary>
-
 - S. Kim, **M. Ra**, and W.-Y. Kim, "[Specular Detection on Glossy Surface Using Geometric Characteristics of Specularity in Top-View Images](https://doi.org/10.3390/s21062079)," _Sensors_, vol. 21, issue 6, Mar, 2021
 - S. Kim, J. Kim, **M. Ra**, and W.-Y. Kim, "[Vacant Parking Slot Recognition Method for Practical Autonomous Valet Parking System Using around View Image](https://doi.org/10.3390/sym12101725)," _Symmetry_, vol. 12, issue 10, Oct, 2020
 - M. Kim, H. Jo, **M. Ra**, and W.-Y. Kim, "[Weakly-Supervised Defect Segmentation on Periodic Textures Using CycleGAN](https://doi.org/10.1109/ACCESS.2020.3024554)," _IEEE Access_, vol. 8, pp. 176202-176216, Sep, 2020
@@ -74,8 +71,6 @@ Moonsoo Ra received the B.S. and Ph.D. degrees in Electronics and Computer Engin
 - **M. Ra**, H. G. Jung, J. K. Suhr, and W.-Y. Kim, "[Part-based vehicle detection in side-rectilinear images for blind-spot detection](https://doi.org/10.1016/j.eswa.2018.02.005)," _Expert Systems with Applications_, vol. 101, pp. 116-128, Jul, 2018
 - **M. Ra**, M. S. Muhammad, C. Lim, S. Han, C. Jung, and W.-Y. Kim, “[Smartphone-Based Point-of-Care Urinalysis Under Variable Illumination](https://doi.org/10.1109/JTEHM.2017.2765631),” _IEEE Journal of Translational Engineering in Health and Medicine_, vol. 6, Dec, 2017
 - J. Lee, M. Pyo, S. Lee, J. Kim, **M. Ra**, W.-Y. Kim, B. J. Park, C. W. Lee, and J.-M. Kim, "[Hydrochromic conjugated polymers for human sweat pore mapping](https://doi.org/10.1038/ncomms4736)," _Nature Communications_, vol. 5, 2014
-
-</details>
 
 ## Domestic registered patents
 
