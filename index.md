@@ -56,6 +56,7 @@ Moonsoo Ra received the B.S. and Ph.D. degrees in Electronics and Computer Engin
 
 ## Journal publications
 
+- J. Jeong, M. Ra, J. Jeong, S. Jang, and W. Lee, "[Determination of space groups and component systems from selected area electron diffraction patterns by deep learning](https://doi.org/10.1007/s43207-026-00590-w)," Journal of the Korean Ceramic Society, vol. 63, pp. 468-481, Feb, 2026 
 - J. M. Jeong, **M. Ra**, J. Jeong, and W. Lee, "[Performance of a deep convolutional neural network to classify crystal structures using selected area electron beam diffraction patterns containing lattice defect information](https://doi.org/10.1039/D3RA08939H)," _RSC Advances_, vol. 14, issue 26, pp. 18489-18500, Jun, 2024
 - **M. Ra**, Y. Boo, J. M. Jeong, J. Batts-Etseg, J. Jeong, and W. Lee, "[Classification of crystal structures using electron diffraction patterns with a deep convolutional neural network](https://doi.org/10.1039/D1RA07156D)," _RSC Advances_, vol. 11, issue 61, pp. 38307-38315, Nov, 2021
 - S. Kim, **M. Ra**, and W.-Y. Kim, "[Specular Detection on Glossy Surface Using Geometric Characteristics of Specularity in Top-View Images](https://doi.org/10.3390/s21062079)," _Sensors_, vol. 21, issue 6, Mar, 2021
