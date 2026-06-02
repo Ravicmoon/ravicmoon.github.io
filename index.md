@@ -39,7 +39,7 @@ Moonsoo Ra received the B.S. and Ph.D. degrees in Electronics and Computer Engin
 |CTO|LightVision Inc.|2019-Current|
 |Graduate Student Researcher|Hanyang University|2011-2019|
 
-## Projects in [Video Image Engineering Lab](http://vision.hanyang.ac.kr/)
+## Projects in Video Image Engineering Lab
 
 - [Security video condensation](compaq_video.md)
 - [Wafer defect detection and recognition](defect.md)
